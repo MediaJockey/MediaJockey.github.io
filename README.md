@@ -18,5 +18,5 @@ Currently working on scanning to the information available on wikimedia to see a
 ### History
 Media Jockey stared in when Bangalore, India under the leadership of Abu Zafar Md Ikbal Hossen during the year 2009 on the day the Michael Jackson died and the name proposed keeping in mind two things, 1) Michael Jackson - MJ 2) A name that should mean fusion of media to create unique communications methods or platform
 
-# Media Jockey is under the supervision of [Abu Zafar] 
+#### Media Jockey is under the supervision of Abu Zafar https://abuzafarmdikbalhossen.github.io/ 
 
